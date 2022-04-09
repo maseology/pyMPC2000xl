@@ -1,7 +1,7 @@
 # pyMPC2000xl
 A Python reader/writer of Akai MPC2000XL *.PRG and *.SND files.
 
-
+inspried by https://www.midicase.com/mpceditor/ (only I wanted a little more control).
 
 ```
 The MPC2000 and other related models use DOS formatted disks. 
