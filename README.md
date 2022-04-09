@@ -3,6 +3,7 @@ A Python reader/writer of Akai MPC2000XL *.PRG and *.SND files.
 
 inspried by https://www.midicase.com/mpceditor/ (only I wanted a little more control).
 
+Here's what I started with:
 ```
 The MPC2000 and other related models use DOS formatted disks. 
 Samples are saved with a .SND extension and contain 16-bit signed data after a 42 byte header:
