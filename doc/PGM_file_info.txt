@@ -1,0 +1,15 @@
+0	mode (0:Normal 1:Simul 2:VelSW 3:DecaySW)
+1	44
+2	also play midinote 1/Use note 1
+3	88
+4	also play midinote 2/Use note 2
+5	voice overlap (0:poly 1:Mono 2:NoteOff)
+6	mute of midinote 1
+7	mute of midinote 2
+8	Tune		93
+9			255
+10	attack
+11	decay
+12	decay mode (0:End 1:Start)
+13	frequency
+14	resonance

@@ -1,0 +1,30 @@
+Notes: 
+
+The entire contents of the SmartMedia can be backed up for future use, just do not edit files names.
+
+SP-303 has 1 MB (1024 KB) of internal storage (banks A and B), and 7 sets of internal storage can be saved; therefore, 7 MB is the maximum possible size of backup storage.
+
+Importing WAVE Files (only one bank at a time):
+SMPL0001.WAV -- Loaded to Pad 1
+SMPL0002.WAV -- Loaded to Pad 2
+SMPL0003.WAV -- Loaded to Pad 3
+SMPL0004.WAV -- Loaded to Pad 4
+SMPL0005.WAV -- Loaded to Pad 5
+SMPL0006.WAV -- Loaded to Pad 6
+SMPL0007.WAV -- Loaded to Pad 7
+SMPL0008.WAV -- Loaded to Pad 8
+
+.SP0 File Descriptions:
+
+-default files:
+PTNDATA0.SP0		Pattern data
+PTNINFO0.SP0		Pattern info
+SMPINFO0.SP0		Sample info
+
+-archive files (n=0 to 6)
+SD_ARC0n.SP0		Data Archive n
+SI_ARC0n.SP0		Info Archie n
+
+-Bank C (n=0 to 7) & D (n=8,9, A to F) samples:
+SMP000nL		Sample on pad n (left channel & mono)
+SMP000nR		Sample on pad n (right channel)

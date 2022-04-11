@@ -1,7 +1,7 @@
 # pyMPC2000xl
 A Python reader/writer of Akai MPC2000XL *.PRG and *.SND files.
 
-inspried by https://www.midicase.com/mpceditor/ (only I wanted a little more control).
+inspired by https://www.midicase.com/mpceditor/ (only I wanted a little more control).
 
 Here's what I started with:
 ```
