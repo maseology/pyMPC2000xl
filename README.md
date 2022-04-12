@@ -1,5 +1,8 @@
 # pyMPC2000xl
-A Python reader/writer of Akai MPC2000XL *.PRG and *.SND files.
+
+![](icon/icon1.png)
+
+A Python reader/writer of Akai MPC2000XL *.PGM and *.SND files.
 
 inspired by https://www.midicase.com/mpceditor/ (only I wanted a little more control).
 
