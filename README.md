@@ -1,6 +1,6 @@
 # pyMPC2000xl
 
-![](icon/icon1.png)
+![](icon/icon1_col.png)
 
 A Python reader/writer of Akai MPC2000XL *.PGM and *.SND files.
 
