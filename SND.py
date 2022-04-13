@@ -87,7 +87,7 @@ class SND:
             nframes = self.end-self.start
             nval = nframes*self.nchan
             signal = np.array(struct.unpack('h'*nval, file.read(2*nval)))    
-            if file.read(1): print("SND ERROR3: EOF not reached")
+            if file.read(1): print("SND ERROR: EOF not reached")
 
             self.signal = signal.reshape((nframes,self.nchan))
             # if verbose: print(self.signal)
